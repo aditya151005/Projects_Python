@@ -1,0 +1,8 @@
+Requirements-
+pip install tk(for tkinter)
+To create  virtual environment-
+python -m venv virtualEnvironmnet 
+Activate virtual environment-
+myworld\Scripts\activate.bat
+#To de-activate virtual environment-
+Scripts\deactivate
